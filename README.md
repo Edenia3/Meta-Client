@@ -29,5 +29,6 @@ Launch game directly from cstrike.exe (supports launch params also)
 
 More tutorial for modding soon.
 
+https://www.youtube.com/watch?v=yIUdizmQbMc
 ![01](https://user-images.githubusercontent.com/47526527/236885535-bdcd2432-a443-492f-b68a-bb2825e47eb0.jpg)
 ![02](https://user-images.githubusercontent.com/47526527/236885556-05b6cd6f-8855-4e47-b801-64f8c8566c8e.jpg)
