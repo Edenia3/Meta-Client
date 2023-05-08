@@ -23,7 +23,7 @@ Compiling client library:
 1. Goto plugins/metaclient/ and open project file
 2. Select Release, Toolset Platform 143 and compile library
 
-ATTENTION!: Dunno't rename cstrike.exe to hl.exe (because by replacing hl.exe you will immediately receive VAC Ban)
+**ATTENTION! Dunno't rename cstrike.exe to hl.exe (because by replacing hl.exe you will immediately receive VAC Ban)**
 
 Launch game directly from cstrike.exe (supports launch params also)
 
