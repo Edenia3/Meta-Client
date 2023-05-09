@@ -1,6 +1,7 @@
 
 ![cooltext435096389616250](https://user-images.githubusercontent.com/47526527/236882940-37388abb-58a8-4c5c-97e9-0fb0b4d48750.png)
 
+
 Meta Client for Steam Counter-Strike 1.6.
 This project has been made for modding purposes only and for modders.
 
