@@ -17,12 +17,14 @@ Client SDK included.
 Compilation under Visual Studio 2022:
 
 Compiling launcher:
-1. Unpack archive and open project file
-2. Select Release, Toolset Platform 143 and compile library
+
+    Unpack archive and open project file
+    Select Release, Toolset Platform 143 and compile library
 
 Compiling client library:
-1. Goto plugins/metaclient/ and open project file
-2. Select Release, Toolset Platform 143 and compile library
+
+    Goto plugins/metaclient/ and open project file
+    Select Release, Toolset Platform 143 and compile library
 
 **ATTENTION! Dunno't rename cstrike.exe to hl.exe (because by replacing hl.exe you will immediately receive VAC Ban)**
 
