@@ -7,9 +7,9 @@ This project has been made for modding purposes only and for modders.
 
 Currently implemented Features:
 
-1. Draw sprites on Players HUD
-2. Draw custom fonts on Players HUD
-3. Draw targa images on Players HUD
+    Draw sprites on Players HUD
+    Draw custom fonts on Players HUD
+    Draw targa images on Players HUD
 
 This project has been evolved from metahook and supports now latest Steam version of Counter-Strike.
 
